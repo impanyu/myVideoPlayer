@@ -1,0 +1,2 @@
+# myVideoPlayer
+ This project implements a youtube like web video player . All components are implemented using plain Javascript or JQuery. Playlist is read from an json file. All the watched video progress are stored using browser’s localstorage mechanism, so that the browser can reseek to its saved progress if the page is refreshed. There is also a separate progress bar indicating the buffered video.
